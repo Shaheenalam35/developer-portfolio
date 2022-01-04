@@ -24,6 +24,8 @@ h2 {
 
 .half-width img {
   width: 80%;
+  border-radius: 50%;
+  padding-top: 30px;
 }
 .link-button {
   text-decoration: none;
